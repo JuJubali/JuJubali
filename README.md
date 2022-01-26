@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuJubali&layout=compact&langs_count=7&theme=moltack"/>
 <img align="right" alt="Juliaa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/623523047588233218/935341447387971584/20220124_221052.gif">
 </div>
-  <div>
+   <div>
      
-  ![Snake animation](https://github.com/JuJubali/JuJubali/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
