@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 🐍 Python
 -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/JuJubali" target="_blank" rel="external">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuJubali&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuJubali&show_icons=true&theme=moltack&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuJubali&layout=compact&langs_count=7&theme=moltack"/>
 <img align="right" alt="Juliaa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/623523047588233218/935341447387971584/20220124_221052.gif">
 </div>
