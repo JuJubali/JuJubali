@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 Eu sou estudante da área de TI
-- 🌱 Eu estou atualmente estudando HTML5 CSS
+- 🛰️ Adoro física e astronomia
+- 🌱 Eu estou estudando HTML5 CSS
 - 🤔 Eu estou buscando por curiosiedades/conhecimento
 - 🐼 Fato engraçado: Adoro pandas!
 - 🐍 Python
