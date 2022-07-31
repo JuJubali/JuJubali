@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Eu sou estudante da área de TI
 - 🛰️ Adoro física e astronomia
-- 🌱 Eu estou estudando HTML5 CSS
+- 🌱 Também gosto de HTML5 CSS
 - 🤔 Eu estou buscando por curiosiedades/conhecimento
 - 🐼 Fato engraçado: Adoro pandas!
 - 🐍 Python
