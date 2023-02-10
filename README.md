@@ -1,16 +1,15 @@
-### Olá, mundo! Eu sou estudante de TI 🐱‍👓🕮
+### Hello World! I love studying ❣️
 
 <!--
 **JuJubali/JuJubali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Eu sou estudante da área de TI
+- 🔭 Eu sou estudante da área de Computação
 - 🛰️ Adoro física e astronomia
-- 🌱 Também gosto de HTML5 CSS
 - 🤔 Eu estou buscando por curiosiedades/conhecimento
 - 🐼 Fato engraçado: Adoro pandas!
-- 🐍 Python
+- 🐍 C
 -->
 
 <div align="center">
