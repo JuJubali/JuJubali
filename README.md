@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Eu sou estudante da área de Computação;
 - 🛰️ Adoro física e astronomia;
+- 🦴 Otaku fedida e gamer de final de semana;
 - 💓 Amo conhecimento;
 - 🐍 C (Arduíno);
 - ☕Java;
