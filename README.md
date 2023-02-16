@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Eu sou estudante da área de Computação
-- 🛰️ Adoro física e astronomia
-- 🤔 Eu estou buscando por curiosiedades/conhecimento
+- 🔭 Eu sou estudante da área de Computação;
+- 🛰️ Adoro física e astronomia;
+- 💓 Amo conhecimento;
+- 🐍 C (Arduíno);
+- ☕Java;
 - 🐼 Fato engraçado: Adoro pandas!
-- 🐍 C
 -->
 
 <div align="center">
