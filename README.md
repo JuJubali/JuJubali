@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   
    <div> 
 
-  ![Snake animation](https://github.com/JuJubali/Nyxlim/blob/output/github-contribution-grid-snake.svg)
- 
- ![snake gif](https://github.com/Jujubali/https://github.com/JuJubali/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/JuJubali/Nyxlim/blob/output/github-contribution-grid-snake.svg)
+
+   ![snake gif](https://github.com/Jujubali/https://github.com/JuJubali/blob/output/github-contribution-grid-snake.svg)
+
   </div>
