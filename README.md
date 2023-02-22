@@ -12,13 +12,13 @@ Here are some ideas to get you started:
  
    <div> 
 
-                                                  - 🔭 Eu sou estudante da área de Computação;
-                                                  - 🛰️ Adoro física e astronomia;
-                                                  - 🦴 Otaku fedida e gamer de final de semana;
-                                                  - 💓 Amo conhecimento;
-                                                  - 🐍 C (Arduíno);
-                                                  - ☕Java;
-                                                  - 🐼 Fato engraçado: Adoro pandas!
+                                           - 🔭 Eu sou estudante da área de Computação;
+                                           - 🛰️ Adoro física e astronomia;
+                                           - 🦴 Otaku fedida e gamer de final de semana;
+                                           - 💓 Amo conhecimento;
+                                           - 🐍 C (Arduíno);
+                                           - ☕Java;
+                                           - 🐼 Fato engraçado: Adoro pandas!
 
   ![Snake animation](https://github.com/RafaellaBallerini/RafaellaBallerini/blob/output/github-contribution-grid-snake.svg)
  
