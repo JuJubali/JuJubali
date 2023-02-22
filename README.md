@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-?theme=aura ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+?theme= a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 </div>
   
