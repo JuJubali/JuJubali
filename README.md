@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div align="center">
 
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
 
 </div>
   
