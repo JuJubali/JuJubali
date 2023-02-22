@@ -10,10 +10,6 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=midnight-purple&show_icons=true)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
-
-</div>
-  
    <div> 
 
                                                   - 🔭 Eu sou estudante da área de Computação;
@@ -27,3 +23,14 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/RafaellaBallerini/RafaellaBallerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
+
+</div>
+  
+   <div> 
+
+  ![Snake animation](https://github.com/RafaellaBallerini/RafaellaBallerini/blob/output/github-contribution-grid-snake.svg)
+ 
+  </div>
