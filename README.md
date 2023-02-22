@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       🐼 Fato engraçado: Adoro pandas!
   </div>
  
-</div">
+</div>
 
 <div align="center">
  
