@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=midnight-purple&show_icons=true)
  
-   <div> 
+   <div align="center"> 
 
                                            - 🔭 Eu sou estudante da área de Computação;
                                            - 🛰️ Adoro física e astronomia;
@@ -19,8 +19,7 @@ Here are some ideas to get you started:
                                            - 🐍 C (Arduíno);
                                            - ☕Java;
                                            - 🐼 Fato engraçado: Adoro pandas!
-
-  ![Snake animation](https://github.com/RafaellaBallerini/RafaellaBallerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
  
 </div>
 
