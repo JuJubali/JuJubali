@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=dark&show_icons=true)
  
-   <div style=bgcolor='	#808080 align="center"> 
+   <div class="background: #808080;" align="center"> 
 
      🔭 Eu sou estudante da área de Computação;
      🛰️ Adoro física e astronomia;
@@ -23,16 +23,9 @@ Here are some ideas to get you started:
  
 </div>
 
-<div class="background= #808080;" align="center">
+<div align="center">
  
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
 
 </div>
-  
-   <div> 
-
-   ![Snake animation](https://github.com/JuJubali/Nyxlim/blob/output/github-contribution-grid-snake.svg)
-
-   ![snake gif](https://github.com/Jujubali/https://github.com/JuJubali/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
+                       
