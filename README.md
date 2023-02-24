@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 </div>
 
-<div style="background-color: red" align="center">
+<div style="background-color: #808080" align="center">
  
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Jujubali/github-readme-stats)
 
