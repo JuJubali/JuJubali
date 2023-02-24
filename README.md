@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=dark&show_icons=true)
  
-   <div class="background: #blue;" align="center"> 
+   <div style="background: blue;" align="center"> 
 
      🔭 Eu sou estudante da área de Computação;
      🛰️ Adoro física e astronomia;
