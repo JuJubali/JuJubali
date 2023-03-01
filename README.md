@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=dark&show_icons=true)
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove)](https://github.com/JuJubali/Piscopatos)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove)]((https://github.com/JuJubali/Mathlove)
  
    <div style="background: #808080;" align="center"> 
 
