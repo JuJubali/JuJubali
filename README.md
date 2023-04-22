@@ -21,7 +21,6 @@ Here are some ideas to get you started:
      🤖 C (arduíno);
      ☕Java;
      💻Low - level;
-     🦴 Otaku fedida e gamer de final de semana;
      🐼 Fato engraçado: Adoro pandas!
   </div>
  
