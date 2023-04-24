@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove)](https://github.com/JuJubali/Mathlove)
  
    <div align="center" style="background: #808080;"> 
-
+  ##
      🔭 Eu sou estudante da área de Computação;   
     🛰️ Adoro física e astronomia;
     💓 Amo conhecimento;
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     🤖Low - level;
     💻High - level;
     🐼 Fato engraçado: Adoro pandas!
+   ##
   </div>
  
 </div>
