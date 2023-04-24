@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  
  
   ##
-     🔭 Eu sou estudante da área de Computação;   
+    🔭 Eu sou estudante da área de Computação;   
     🛰️ Adoro física e astronomia;
     💓 Amo conhecimento;
     🐍 Python;
