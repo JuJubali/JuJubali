@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove)](https://github.com/JuJubali/Mathlove)
  
-         ##
+       ##
          🔭 Eu sou estudante da área de Computação;   
          🛰️ Adoro física e astronomia;
          💓 Amo conhecimento;
