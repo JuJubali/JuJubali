@@ -20,7 +20,8 @@ Here are some ideas to get you started:
      🐍 Python;
      🤖 C (arduíno);
      ☕Java;
-     💻Low - level;
+     🤖Low - level;
+     💻High - level;
      🐼 Fato engraçado: Adoro pandas!
   </div>
  
