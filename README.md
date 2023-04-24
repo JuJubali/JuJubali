@@ -14,14 +14,15 @@ Here are some ideas to get you started:
  
    <div align="center" style="background: #808080;"> 
 
-     🔭 Eu sou estudante da área de Computação;   🛰️ Adoro física e astronomia;
-     💓 Amo conhecimento;
-     🐍 Python;
-     🤖 C (arduíno);
-     ☕Java;
-     🤖Low - level;
-     💻High - level;
-     🐼 Fato engraçado: Adoro pandas!
+     🔭 Eu sou estudante da área de Computação;   
+    🛰️ Adoro física e astronomia;
+    💓 Amo conhecimento;
+    🐍 Python;
+    🤖 C (arduíno);
+    ☕Java;
+    🤖Low - level;
+    💻High - level;
+    🐼 Fato engraçado: Adoro pandas!
   </div>
  
 </div>
