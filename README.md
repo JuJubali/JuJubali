@@ -15,7 +15,5 @@ Here are some ideas to get you started:
     * 👾Estudante de Computação  
     * 🔭Adoro física e astronomia
     * 🤔Amo conhecimento
-    * Low - level
-    * High - level
 
 </div>
