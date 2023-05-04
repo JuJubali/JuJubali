@@ -12,8 +12,9 @@ Here are some ideas to get you started:
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove&theme=dark&show_icons=true)](https://github.com/JuJubali/Mathlove)
  ##
-    * 👾Estudante de Computação  
-    * 🔭Adoro física e astronomia
-    * 🤔Amo conhecimento
+    - 👾Estudante de Computação  
+    - 💻Programação
+    - 🤖 Hardware
+    - 🤔Amo conhecimento
 
 </div>
