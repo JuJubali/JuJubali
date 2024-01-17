@@ -18,7 +18,7 @@ Here are some ideas to get you started:
    <p style="text-align: center;">
    
       - 🧑‍🔬Cursando Engenharia da Computação
-      - 💚 > print("Programação")
+      - 💚 print("Programação")
       - 🩵 C / C++
       - 💙 Python
       - 🎲 SQL 
