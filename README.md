@@ -11,9 +11,9 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubali&theme=dark&show_icons=true)
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove&theme=dark&show_icons=true)](https://github.com/JuJubali/Mathlove)
- 
-  ##
-  align=center
+
+ <p style="text-align: center;">
+   ##
     - 🧑‍🔬Cursando Engenharia da Computação
     - 💚 Programação
     - 💻Python
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
     - 👾 HTML e CSS
     - 🤔 Amo conhecimento
  
+ </p>
+  
 
  >
 
