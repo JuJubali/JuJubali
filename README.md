@@ -18,12 +18,13 @@ Here are some ideas to get you started:
    <p style="text-align: center;">
    
       - 🧑‍🔬Cursando Engenharia da Computação
-      - 💚 Programação
-      - 💻Python
+      - 💚 > print("Programação")
+      - 🩵 C / C++
+      - 💙 Python
       - 🎲 SQL 
       - 💛 JavaScript
       - 👾 HTML e CSS
-      - 🤔 Amo conhecimento
+     
    
    </p>
   
