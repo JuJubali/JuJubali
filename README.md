@@ -12,6 +12,7 @@ Here are some ideas to get you started:
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuJubali&repo=Mathlove&theme=dark&show_icons=true)](https://github.com/JuJubali/Mathlove)
  ##
+ <p align=center 
     - 🧑‍🔬Cursando Engenharia da Computação
     - 💚 Programação
     - 💻Python
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
     - 💛 JavaScript
     - 👾 HTML e CSS
     - 🤔 Amo conhecimento
+ >
 ##
 
 </div>
