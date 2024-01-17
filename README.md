@@ -21,7 +21,8 @@ Here are some ideas to get you started:
     - 💛 JavaScript
     - 👾 HTML e CSS
     - 🤔 Amo conhecimento
+ ##
+
  >
-##
 
 </div>
