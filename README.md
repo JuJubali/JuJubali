@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+Júlia;I'm+from+Brazil;I+LIKE+CODING;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJubali&layout=compact)</div>
 
 <div align="center">
  
