@@ -25,7 +25,7 @@
 
 ## Social Network
 
-<a href="https://https://www.linkedin.com/in/j%C3%BAlia-junqueira-a4b785271/  /" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" style="border-radius: 30px" target="_blank"></a> 
+a href="https://www.linkedin.com/in/JuliaJunqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 
