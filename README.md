@@ -10,20 +10,23 @@
 
 </div>
 
-<div align="center" style="display: inline_block">
+ <div align="center" style="display: inline_block">
 
 ## Languagens
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  style="border-radius: 30px; height: 40px; width: 40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="border-radius: 30px; height:40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 
+</di>
+
+<div>
+ 
 ## Social Network
 
 <a href="https://www.linkedin.com/in/júlia-junqueira-a4b785271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
