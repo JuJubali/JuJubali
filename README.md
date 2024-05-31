@@ -19,8 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  style="border-radius: 30px; height: 40px; width: 40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="border-radius: 30px; height: 40px; width: 40px"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="border-radius: 30px; height: 40px; width: 40px"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="border-radius: 30px; height: 40px; width: 40px"/>
 
 </di>
